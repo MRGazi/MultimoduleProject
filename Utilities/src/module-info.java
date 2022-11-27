@@ -1,0 +1,3 @@
+module Utilities{
+    requires javaBasic;
+}
